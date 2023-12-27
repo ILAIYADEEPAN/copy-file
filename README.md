@@ -30,13 +30,14 @@ with open("Files.txt","r") as f1:
 
 ### OUTPUT:
 PROGRAM
-![Alt text](output1.png):
+![output1](https://github.com/ILAIYADEEPAN/copy-file/assets/147473334/39b431cf-6162-4500-8529-0f72292b4c9d)
+
 
 File.txt:
-![Alt text](output2.png)
+![output2](https://github.com/ILAIYADEEPAN/copy-file/assets/147473334/8fc00094-807a-4a5e-b452-49b097cd7dfc)
 
 Copy.txt:
-![Alt text](output3.png)
+![output3](https://github.com/ILAIYADEEPAN/copy-file/assets/147473334/a0fa2974-6c1b-4167-9f6f-05ee29db3dd5)
 
 
 ## RESULT:
